@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BSTM_NewRFLPFLayout")(type "KiCad")(uri "${KIPRJMOD}/BSTM_NewRFLPFLayout.pretty")(options "")(descr ""))
+)
